@@ -1,14 +1,26 @@
 Неуправляемая карусель CSS 
 проработка Git команд
 
-git init  - добавить git в корень
+git init 
 git status
-git rm - 
+git rm
 git add
 git commit
 git restore
 
-git branch
+qwerasdfzzcxc
+fdf
 
-git checkout dev
-git commit -a -m - сохранение говнеца
+доработать
+
+
+
+должна быть 15 строка
+ещё инфа
+
+
+
+обработка инф 
+
+
+проработать файл инд, удалить всё лишнее
