@@ -11,7 +11,7 @@ html {
 
 body {
     background-color: #dddddd;
-    display: none;
+    /* display: none; */
 }
 
 .header {
@@ -45,7 +45,7 @@ body {
 
 .carousel::after,
 .carousel::before {
-    /* content: ""; */
+    content: "";
     position: absolute;
     width: 200px;
     height: 100%;
